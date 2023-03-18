@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "🧑‍💻 Computer Engineer | <br> 👨‍💻 Programmer | <br> 🖥️📱 Web Designer |",
+        "parrafo-info": "Web developer passionate about creating innovative and attractive digital solutions. I have two years of experience working with HTML, CSS, JavaScript and PHP in projects for clients from various industries.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "Web developer passionate about creating innovative and attractive digital solutions. I have two years of experience working with HTML, CSS, JavaScript and PHP on projects for clients from various industries. I like to keep up with the latest trends and technologies in the field of web development and constantly learn new skills. My goal is to continue growing as a professional and add value to the companies that trust in my work. <br><br>In addition, I am good at working in work teams and I easily adapt to different environments and situations."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Informatics Engineering",
+        "tiempo-formacion1": "2018 - In progress",
+        "formacion2": "Full Stack Web Development",
+        "tiempo-formacion2": "2022 - 2023",
+        "formacion3": "Full Stack Web Development Códigofacilito"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Hangman Game",
+        "info-proyecto1": "A game where the user must guess the secret word with a certain number of chances. The word is chosen randomly by the program and the user will lose the moment the gallows is completed.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
+        "title-proyecto3": "Text Encryptor",
+        "info-proyecto3": "An encryptor where the user can type a text and the encryptor encrypts it with pre-programmed keys. The encryptor can also decrypt the text."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}

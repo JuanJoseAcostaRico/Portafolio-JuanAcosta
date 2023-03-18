@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "🧑‍💻 Ingeniero Informático | <br> 👨‍💻 Programador | <br> 🖥️📱 Diseñador Web |",
+        "parrafo-info": "Desarrollador web apasionado por crear soluciones digitales innovadoras y atractivas. Tengo dos año de experiencia trabajando con HTML, CSS, JavaScript y PHP en proyectos para clientes de diversos sectores.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Desarrollador web apasionado por crear soluciones digitales innovadoras y atractivas. Tengo dos año de experiencia trabajando con HTML, CSS, JavaScript y PHP en proyectos para clientes de diversos sectores. Me gusta estar al día de las últimas tendencias y tecnologías en el campo del desarrollo web y aprender constantemente nuevas habilidades. Mi objetivo es seguir creciendo como profesional y aportar valor a las empresas que confían en mi trabajo. <br><br>Además, soy bueno trabajando en equipos de trabajo y me adapto fácilmente a diferentes entornos y situaciones."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Ingeniería Informática",
+        "tiempo-formacion1": "2018 - En curso",
+        "formacion2": "Desarrollo Web Full-Stack",
+        "tiempo-formacion2": "2022 - 2023",
+        "formacion3": "Desarrollo Web Full-Stack Códigofacilito"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Juego del Ahorcado",
+        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa y el usuario perderá en el momento en que la horca se complete.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "Encriptador de Texto",
+        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}
