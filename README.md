@@ -18,5 +18,7 @@ Imagenes del proyecto:
 ![image](https://user-images.githubusercontent.com/107359514/226144179-4bf3c2af-1a2b-46d6-96da-363b6b8d81d6.png)
 
 Link: https://portafoliojuanacosta.netlify.app/
+
 o
+
 https://juanjoseacostarico.github.io/Portafolio-JuanAcosta/
